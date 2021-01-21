@@ -1,0 +1,18 @@
+{
+  "name": "com.fria.pool",
+  "version": "1.0.0",
+  "displayName": "com.fria.pool",
+  "description": "Dynamic and non-dynamic pooling of game objects",
+  "unity": "2019.1",
+  "keywords": [
+    "dynamic",
+    "pool"
+  ],
+  "author": {
+    "name": "Arifur Rahman",
+    "email": "arifurrahman.contact@gmail.com",
+    "url": "alphapotato.com"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}

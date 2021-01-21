@@ -1,0 +1,17 @@
+{
+    "name": "friatest.Editor",
+    "references": [
+        "GUID:41f5f1cdf75cd244c8b493139354856c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
