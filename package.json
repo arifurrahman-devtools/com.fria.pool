@@ -1,7 +1,7 @@
 {
   "name": "com.fria.pool",
   "version": "1.0.0",
-  "displayName": "com.fria.pool",
+  "displayName": "Pool (fria)",
   "description": "Dynamic and non-dynamic pooling of game objects",
   "unity": "2019.1",
   "keywords": [
@@ -14,5 +14,9 @@
     "url": "alphapotato.com"
   },
   "type": "tool",
-  "hideInEditor": false
+  "hideInEditor": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arifurrahman-devtools/com.fria.pool.git"
+  }
 }
